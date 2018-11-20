@@ -5,7 +5,7 @@ Want to export your Markdown posts from [Jekyll](http://jekyllrb.com) to a forma
 
 This was built by reverse-engineering the WordPress exporter [plugin](http://wordpress.org/plugins/ghost/) to match the JSON file it outputs.
 
-Last tested 2018-11-20 with Ghost Pro 2.6.0 and Jekyll 3.8.4.
+Last tested 2018-11-20 with Ghost Pro 2.6.0 and Jekyll 3.8.4. It chokes on code-heavy stuff; I think it has to do with syntax highlighting.
 
 
 Installation
